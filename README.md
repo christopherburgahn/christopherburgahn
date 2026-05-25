@@ -1,6 +1,6 @@
 # Christopher Burgahn
 
-Product leader building reliable GenAI systems for enterprise use cases where control, security, and business value matter.
+Product leader building reliable GenAI systems use cases where business value matters.
 
 I work at the intersection of product, entrepreneurship, and GenAI implementation. My focus is on turning model capabilities into systems that work under real-world constraints: traceable, controllable, and useful for the people who depend on them.
 

@@ -15,7 +15,7 @@ What matters to me is turning AI capabilities into something people can actually
 ## Selected background
 
 - Aleph Alpha: Senior Product Manager & AI Value Engineer, working on enterprise GenAI at the intersection of research and deployment
-- fronyx: founder of AI solutions for e-mobility, including commercialised systems with enterprise customers
+- fronyx: founder and product manager for ChargeGPT, the first GenAI assistant for electric vehicle charging. The work lives across [chargegpt-web](https://github.com/fronyx/chargegpt-web), [chargegpt-api](https://github.com/fronyx/chargegpt-api), and [chargegpt-ai](https://github.com/fronyx/chargegpt-ai).
 - Share&Charge: product and partner management for a European charging infrastructure platform
 
 ## Featured project

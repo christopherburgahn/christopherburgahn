@@ -31,9 +31,3 @@ I built it around a few simple choices.
 - Local-first by default
 - Agent-invoked instead of background automation
 - Markdown output for long-term portability
-
-## A bit of what drives me
-
-I like public work because it makes the thinking visible. It also keeps me honest. If I build something, I want other people to be able to read it, run it, and see how the decisions were made.
-
-Most of the time, that means building slowly but shipping often. A small useful thing in public is better than a polished idea that nobody can touch.

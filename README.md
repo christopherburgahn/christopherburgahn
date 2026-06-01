@@ -20,7 +20,7 @@ What matters to me is turning AI capabilities into something people can actually
 
 ## Featured project
 
-### wa-obsidian-localsync
+### [whatsapp-obsidian-sync](https://github.com/christopherburgahn/whatsapp-obsidian-sync)
 A local-first workflow that snapshots WhatsApp conversations into Obsidian through WAHA and an agent skill.
 
 A lot of important decisions, ideas, and commitments live in chat. This project turns that stream into something you can find again later, without adding another cloud service.

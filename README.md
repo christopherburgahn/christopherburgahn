@@ -2,9 +2,9 @@
 
 I build GenAI products that need to work in real companies, not just look good in a demo.
 
-I work at the intersection of entrepreneurship, product, and (Gen)AI implementation. I like understanding a problem deeply enough that the right product decisions, system design, and implementation steps start to make sense.
+I work at the intersection of entrepreneurship, product, and (Gen)AI implementation. I like getting close enough to a problem that the right product decisions and system design start to become obvious. That is usually where the interesting work begins.
 
-What matters to me is turning AI capabilities into something people can actually trust and use: traceable, controllable, and valuable in the real world.
+What matters to me is turning AI capabilities into something people can actually trust and use. Not in theory. In the messy real world, with constraints, tradeoffs, and users who do not care about the buzzwords.
 
 ## What I build
 
@@ -23,11 +23,17 @@ What matters to me is turning AI capabilities into something people can actually
 ### wa-obsidian-localsync
 A local-first workflow that snapshots WhatsApp conversations into Obsidian through WAHA and an agent skill.
 
-Why it matters: a lot of important decisions, ideas, and commitments live in chat. This project turns that messy stream into something you can find again later, without adding another cloud service.
+A lot of important decisions, ideas, and commitments live in chat. This project turns that stream into something you can find again later, without adding another cloud service.
 
-Product decisions:
+I built it around a few simple choices.
 
 - Snapshot-based instead of always-on sync
 - Local-first by default
 - Agent-invoked instead of background automation
 - Markdown output for long-term portability
+
+## A bit of what drives me
+
+I like public work because it makes the thinking visible. It also keeps me honest. If I build something, I want other people to be able to read it, run it, and see how the decisions were made.
+
+Most of the time, that means building slowly but shipping often. A small useful thing in public is better than a polished idea that nobody can touch.

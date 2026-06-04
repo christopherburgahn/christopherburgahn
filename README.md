@@ -26,11 +26,4 @@ I built the original version for our own wedding weekend, then turned it into a 
 ### [whatsapp-obsidian-sync](https://github.com/christopherburgahn/whatsapp-obsidian-sync)
 A local-first workflow that snapshots WhatsApp conversations into Obsidian through WAHA and an agent skill.
 
-A lot of important decisions, ideas, and commitments live in chat. This project turns that stream into something you can find again later, without adding another cloud service.
-
-I built it around a few simple choices.
-
-- Snapshot-based instead of always-on sync
-- Local-first by default
-- Agent-invoked instead of background automation
-- Markdown output for long-term portability
+The idea is simple: important thoughts often live in chat, and this makes them easier to find again as Markdown without adding another cloud service.

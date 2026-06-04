@@ -16,7 +16,12 @@ What matters to me is turning AI capabilities into something people can actually
 - fronyx: founder and product manager for ChargeGPT, the first GenAI assistant for electric vehicle charging. The work lives across [chargegpt-web](https://github.com/fronyx/chargegpt-web), [chargegpt-api](https://github.com/fronyx/chargegpt-api), and [chargegpt-ai](https://github.com/fronyx/chargegpt-ai).
 - Share&Charge: product and partner management for a European charging infrastructure platform
 
-## Featured project
+## Open-source projects
+
+### [wedding-hub-template](https://github.com/christopherburgahn/wedding-hub-template)
+A customizable wedding-weekend hub for RSVPs, accommodation planning, guest payments, travel information, schedule details, and basic admin work.
+
+I built the original version for our own wedding weekend, then turned it into a reusable template so other couples can adapt it without starting from a blank page. It is built with React, Vite, Tailwind, and Supabase.
 
 ### [whatsapp-obsidian-sync](https://github.com/christopherburgahn/whatsapp-obsidian-sync)
 A local-first workflow that snapshots WhatsApp conversations into Obsidian through WAHA and an agent skill.

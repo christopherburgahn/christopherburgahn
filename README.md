@@ -1,6 +1,6 @@
 # Christopher Burgahn
 
-I work at the intersection of entrepreneurship, product, and (Gen)AI implementation. I like getting close enough to a problem that the right product decisions and system design start to become obvious. That is usually where the interesting work begins.
+I work at the intersection of entrepreneurship, product, and (Gen)AI implementation. I like getting close enough to a problem that the right product decisions and system design start to become obvious. That is usually where the fun is.
 
 What matters to me is turning AI capabilities into something people can actually trust and use. Not in theory. In the messy real world, with constraints, tradeoffs, and users who do not care about the buzzwords.
 
